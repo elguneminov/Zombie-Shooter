@@ -5,4 +5,4 @@ Zombie Shooter game in js(JavaScript)
 
 Controls: Player Movement: Mouse          Player Shoot: Mouse Left Click 
 
-#### Made by Elay Maharramli
+#### Made by someone else
